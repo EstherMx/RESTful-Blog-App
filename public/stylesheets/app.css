@@ -4,3 +4,6 @@ i.icon{
 .mt6{
 	margin-top:6em !important;
 }
+#delete{
+	display: inline;
+}
